@@ -10,7 +10,7 @@ function plus(){
 	//расчет
 	result=a+b;
 	result=result.toFixed(3);//округление до 3 разряда
-	//alert("Hello I am programmer!")
+	
 	//вывод результата
 	document.getElementById("out").innerHTML=result;
 	
